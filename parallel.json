@@ -1,0 +1,22 @@
+{
+  "packages": {
+    "react": [
+      "loose-envify",
+      "object-assign"
+    ],
+    "loose-envify": [
+      "js-tokens"
+    ],
+    "js-tokens": [],
+    "object-assign": [],
+    "typescript": [],
+    "parallel": [
+      "react",
+      "typescript"
+    ]
+  },
+  "installed": [
+    "react",
+    "parallel"
+  ]
+}
